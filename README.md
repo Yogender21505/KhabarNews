@@ -26,6 +26,13 @@ Khabar is an innovative Android application designed to deliver personalized new
 - **Retrofit**: For handling network operations.
 - **Room**: For local database management.
 - **Gemini AI**: For personalized news summaries and accessibility features.
+## Screenshot
+<img src="https://github.com/user-attachments/assets/84add129-aa2c-4c17-a4ed-09dff0fa0b4e" alt="WhatsApp Image 2024-07-16 at 18 38 40_924d0eef" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/7ff82426-c5ef-4b3c-9e44-d9a36aedebe3" alt="WhatsApp Image 2024-07-16 at 18 38 40_e0348589" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/da9430fb-3fb7-46b4-8275-c161be7fad33" alt="WhatsApp Image 2024-07-16 at 18 38 39_ff9da422" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/0b8a60c3-7500-44b0-ba9f-9e0b0bcada79" alt="WhatsApp Image 2024-07-16 at 18 38 40_ca16724d" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/f2f771b7-10f0-4ce4-bc75-09a5b656c992" alt="WhatsApp Image 2024-07-16 at 18 38 41_e5b03468" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/60940849-9839-4053-b44a-6b778fc95e62" alt="WhatsApp Image 2024-07-16 at 18 40 44_d31f7428" width="300" height="600">
 
 ## Installation
 
