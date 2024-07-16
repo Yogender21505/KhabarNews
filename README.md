@@ -31,7 +31,7 @@ Khabar is an innovative Android application designed to deliver personalized new
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/Khabar.git
+   git clone https://github.com/Yogender21505/KhabarNews.git
 2. Open the project in Android Studio.
 3. Build the project to install all dependencies.
 4. Run the app on an emulator or a physical device.
